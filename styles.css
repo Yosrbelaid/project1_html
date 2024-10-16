@@ -1,0 +1,65 @@
+.link{
+    color: white;
+}
+
+#nav{
+    border: double white;
+}
+#one{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+#two{
+    padding-right: 100px;
+}
+#three{
+    padding-right: 100px;
+}
+#four{
+    padding-right: 100px;
+}
+body{
+    font-family: roboto;
+    background-color: rgb(188, 227, 174);
+}
+h2{
+    color: rgb(15, 1, 87);
+    text-decoration: underline;
+    
+}
+#list{
+    border:none;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+.test{
+    display: inline-block;
+    width:40% ;
+}
+#finish{
+    display: block;
+    background-color:darkgreen;
+    
+}
+#top{
+    border: solid rgb(0, 113, 0);
+    background-color: rgb(0, 113, 0);
+}
+#list{
+    border: dotted black;
+    background-color: rgb(166, 155, 126);
+}
+#finish{
+    color: black;
+}
+.up{
+    display: inline;
+}
+#tt{
+    text-align: center;
+}
+#list{
+    padding-left: 10px;
+}
+
